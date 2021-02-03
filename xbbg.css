@@ -501,7 +501,7 @@ body::before {
   left: 0;
   right: 0;
   bottom: 0;
-  opacity: 0.03;
+  opacity: 0.08;
   position: fixed;
   background: center/cover no-repeat;
   background-image: url("https://cdn.jsdelivr.net/gh/LonelyFinally/cdn/xuanba.1.png");
