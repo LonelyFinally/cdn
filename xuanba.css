@@ -469,16 +469,6 @@ e,.ui-slider-handle {
 	background: #bdc3c7!important
 }
 
-
-body.night{
-    background-color: #263238;
-    color: #aaa;
-}
-body.night img {
-    filter: brightness(30%);
-}
-
-
 html {
   overscroll-behavior: none;
 }
@@ -509,58 +499,6 @@ body::before {
   pointer-events: none;
 }
 
-.bg_black {
-  background-color: #3a3e4a;
-  color: #d2d2d2;
-}
-
-
-
-/* define size */
-.el-radio.el-radio-sm,
-.el-checkbox.el-checkbox-sm,
-.el-switch.el-switch-sm {
-  font-size: 85%;
-}
-.el-radio.el-radio-lg,
-.el-checkbox.el-checkbox-lg,
-.el-switch.el-switch-lg {
-  font-size: 125%;
-}
-.footer {
-  text-align: center;
-  margin-top: 30px;
-  margin-bottom: 20px;
-  color: #ccc;
-}
-@media screen and (max-width: 800px) {
-  .hd {
-    width: 95%;
-    margin: auto;
-  }
-  .logodiv {
-    margin-top: 20px;
-  }
-  .posts .replay-btn {
-    display: none;
-  }
-  .posttime {
-    display: none;
-  }
-  .posts .post-title {
-    font-size: 16px;
-  }
-  .postname {
-    max-width: 100%;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }
-  .about-avatar {
-    right: -20px;
-    top: -20px;
-    transform: scale(0.6);
-  }
   footer {
     font-size: 12px;
   }
