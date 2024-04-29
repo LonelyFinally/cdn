@@ -77,7 +77,7 @@ $('.waifu-tool .fui-photo').click(function (){
 
 function waifuWelcome(){
     var text;
-    var SiteIndexUrl = 'https://www.sjiaw.com/';  // 手动指定主页
+    var SiteIndexUrl = 'https://玄八.top/';  // 手动指定主页
     //var SiteIndexUrl = window.location.protocol+'//'+window.location.hostname+'/';  // 自动获取主页
 
     if (window.location.href == SiteIndexUrl) {      // 如果是主页
